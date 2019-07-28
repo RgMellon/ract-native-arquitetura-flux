@@ -15,4 +15,4 @@
 
 <h4> Funcionamento </h4>
 
-<img src="https://gph.is/g/Zdx53wo" width="500" />
+<img src="https://media.giphy.com/media/L3dJl25v0Gu8fLXM0g/giphy.gif" width="500" />
