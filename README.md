@@ -2,9 +2,9 @@
 
 <h4> Descrição </h4>
 
-<p>  esse projeto foi criado com o objetivo de usar redux-saga e redux </p>
+<p>  Esse projeto foi criado com o objetivo de usar redux-saga e redux </p>
 
-<h4> Tecnlogias </h4>
+<h4> Tecnologias </h4>
 
 <ul>
   <li> React Native </li>
