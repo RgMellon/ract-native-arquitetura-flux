@@ -1,4 +1,4 @@
-<h1> Projeto com algumas funcionalidades de um ecommerce (React Ntive) </h1>
+<h1> Projeto com algumas funcionalidades de um ecommerce (React Native) </h1>
 
 <h4> Descrição </h4>
 
